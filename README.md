@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+I'm just a guy who mostly uses Kotlin and Java as my main programming languages to build 📱Android applications, and sometimes I use Flutter too. Currently, I'm still learning JavaScript and Python.
+
 <!--
 **adriyo/adriyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
